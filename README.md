@@ -7,7 +7,6 @@ Last Modification Date: 10 03 2022
 ## Author(s)
 
 - Full Name: Fariha Zerin Rabita
-- Email: fr778861@dal.ca
 
 
 ## Description
