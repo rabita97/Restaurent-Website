@@ -1,4 +1,4 @@
-# Assignment 3: CSCI 1170, Winter 2022
+# Personal Project
 
 Date Created: 05 03 2022
 Last Modification Date: 10 03 2022
